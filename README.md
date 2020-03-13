@@ -1,1 +1,1 @@
-# RNN-Text-Generation
+# RNN-Text-Generation: How can we predict next text paragraphs?
