@@ -9,5 +9,5 @@ A model based on Recurrent Neural Network machine learning architecture has been
 
 This is the model results, as Marcus Aurelius predicted quotes:
 
-" MARCUS AURELIUS: dodsing of whatever than it is in thow prward purpicion consider thyself suther which thou not suppes therseffer goods would and chelle toghing food
+> " MARCUS AURELIUS: dodsing of whatever than it is in thow prward purpicion consider thyself suther which thou not suppes therseffer goods would and chelle toghing food
 no lave one suisen everything, shilled or sticl diplive and such dory which destrouber and happens weore? "
