@@ -7,7 +7,7 @@
 
 A model based on Recurrent Neural Network machine learning architecture has been build and train using [Marcus Aurelius The Mediations](http://classics.mit.edu/Antoninus/meditations.html) corpus as learning inputs. This model produces the next predicted 2000 characters
 
-This is the model results, as Marcus Aurelius predicted quotes. This artificial stoic does not make any semantically sense :heart_eyes: :
+This is the [model results](Marcus%20Aurelius%20-%20Recurrent%20Neural%20Network.ipynb), as Marcus Aurelius predicted quotes. This artificial stoic does not make any semantically sense :heart_eyes: :
 
 > " MARCUS AURELIUS: dodsing of whatever than it is in thow prward purpicion consider thyself suther which thou not suppes therseffer goods would and chelle toghing food
 no lave one suisen everything, shilled or sticl diplive and such dory which destrouber and happens weore? "
